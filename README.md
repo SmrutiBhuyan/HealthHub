@@ -1,4 +1,4 @@
-HealthHub: Your All-in-One Digital Health Companion 
+**HealthHub: Your All-in-One Digital Health Companion **
 
 Hey there! Welcome to HealthHub - the health platform I've been working on that brings everything you need for your wellness journey into one convenient app. Think of it as having a doctor's office, pharmacy, and health assistant right in your pocket!
 
